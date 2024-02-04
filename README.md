@@ -23,3 +23,6 @@ Deliverables:
 1. Code used to load data to postgres database
 
 2. SQL code used to write the views and questions specified above
+
+
+Please view the "Assignment" file and download the PDF to view the query.
